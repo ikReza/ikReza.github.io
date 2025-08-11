@@ -1,0 +1,32 @@
+# Site settings - Local Development
+title: "Ibrahim Kaiser"
+description: "Civil Engineer | Python Developer | Transportation Enthusiast"
+baseurl: ""
+url: "http://localhost:4000"
+
+# Personal information
+author:
+  name: "Ibrahim Kaiser"
+  email: "ibrahim.kaiser@example.com"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins for local development
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+
+# Local development settings
+incremental: true
+livereload: true
