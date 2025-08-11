@@ -25,23 +25,22 @@ title: "Projects"
             </div>
           </div>
           <div class="project-content">
-            <h3 class="project-title">Traffic Safety AI Agent</h3>
+            <h3 class="project-title">Bangladesh Traffic Rules Q&A System</h3>
             <p class="project-description">
-              Intelligent AI agent using RAG (Retrieval-Augmented Generation) for traffic safety analysis. 
-              Features interactive Streamlit dashboard for real-time traffic pattern analysis, incident prediction, 
-              and safety recommendations deployed on Hugging Face Spaces.
+              An AI assistant that provides accurate information about Bangladesh traffic regulations through natural language queries. The system transforms a PDF document into an interactive, searchable knowledge base.
             </p>
             <div class="project-tech">
               <span class="tech-tag">Python</span>
-              <span class="tech-tag">RAG</span>
               <span class="tech-tag">Streamlit</span>
               <span class="tech-tag">HuggingFace</span>
               <span class="tech-tag">LangChain</span>
+              <span class="tech-tag">LangGraph</span>
+              <span class="tech-tag">FAISS</span>
             </div>
             <div class="project-links">
-              <a href="#" target="_blank">Live Demo</a>
-              <a href="#" target="_blank">GitHub</a>
-              <a href="#" target="_blank">HF Spaces</a>
+              <a href="https://huggingface.co/spaces/ikReza/bangladesh-traffic-rules" target="_blank" rel="noopener">Live Demo</a>
+              <a href="https://huggingface.co/spaces/ikReza/bangladesh-traffic-rules/tree/main" target="_blank" rel="noopener">GitHub</a>
+              <a href="https://huggingface.co/spaces/ikReza/bangladesh-traffic-rules" target="_blank" rel="noopener">HF Spaces</a>
             </div>
           </div>
         </div>

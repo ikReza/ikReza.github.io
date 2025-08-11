@@ -24,6 +24,7 @@ title: "About"
               <p style="margin: 0 0 0.5rem 0; font-weight: 600;">Bangladesh University of Engineering and Technology (BUET)</p>
               <p style="margin: 0 0 0.5rem 0;">July 2014 - January 2019</p>
               <p style="margin: 0; color: var(--primary-color);">CGPA: 2.80/4.00</p>
+              <p style="margin: 0; color: var(--accent); font-weight: 600; font-size: 0.9rem;">🌟 Technical Scholarship (2014-2018)</p>
             </div>
           </div>          
           <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border);">

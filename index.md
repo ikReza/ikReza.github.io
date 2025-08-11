@@ -41,37 +41,34 @@ title: "Home"
       <p class="section-subtitle">
         Bridging the gap between traditional civil engineering and modern technology solutions
       </p>
-    </div>
-    
+    </div>    
     <div class="skills-grid">
       <div class="skill-card">
         <h3>🏗️ Civil Engineering</h3>
         <p>Structural analysis, transportation planning, project management, and infrastructure design with focus on sustainable and efficient solutions.</p>
         <div class="skill-tags">
           <span class="tag">AutoCAD</span>
-          <span class="tag">SAP2000</span>
-          <span class="tag">ETABS</span>
+          <span class="tag">QGIS</span>
+          <span class="tag">Excel</span>
           <span class="tag">Project Management</span>
         </div>
-      </div>
-      
+      </div>      
       <div class="skill-card">
         <h3>🐍 Python Development</h3>
         <p>Data analysis, automation, web development, and creating engineering tools using Python ecosystem and modern frameworks.</p>
         <div class="skill-tags">
-          <span class="tag">Django</span>
+          <span class="tag">Streamlit</span>
           <span class="tag">Pandas</span>
           <span class="tag">NumPy</span>
           <span class="tag">Matplotlib</span>
         </div>
-      </div>
-      
+      </div>      
       <div class="skill-card">
         <h3>🚗 Transportation Systems</h3>
         <p>Traffic analysis, transportation modeling, smart city solutions, and sustainable mobility planning for urban environments.</p>
         <div class="skill-tags">
           <span class="tag">Traffic Modeling</span>
-          <span class="tag">GIS Analysis</span>
+          <span class="tag">SUMO</span>
           <span class="tag">Smart Cities</span>
           <span class="tag">Sustainability</span>
         </div>
