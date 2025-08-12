@@ -27,7 +27,7 @@ title: "Projects"
           <div class="project-content">
             <h3 class="project-title">Bangladesh Traffic Rules Q&A System</h3>
             <p class="project-description">
-              An AI assistant that provides accurate information about Bangladesh traffic regulations through natural language queries. The system transforms a PDF document into an interactive, searchable knowledge base.
+              An AI assistant that provides information about Bangladesh traffic regulations through natural language queries. The system transforms a PDF document into an interactive, searchable knowledge base.
             </p>
             <div class="project-tech">
               <span class="tech-tag">Python</span>
@@ -35,7 +35,7 @@ title: "Projects"
               <span class="tech-tag">HuggingFace</span>
               <span class="tech-tag">LangChain</span>
               <span class="tech-tag">LangGraph</span>
-              <span class="tech-tag">FAISS</span>
+              <span class="tech-tag">ChromaDB</span>
             </div>
             <div class="project-links">
               <a href="https://huggingface.co/spaces/ikReza/bangladesh-traffic-rules" target="_blank" rel="noopener">Live Demo</a>
