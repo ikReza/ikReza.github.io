@@ -13,7 +13,7 @@ title: "Projects"
     </div>
     <!-- AI Projects Section -->
     <div style="margin-bottom: 4rem;">
-      <h2 style="color: var(--primary-color); margin-bottom: 2rem; font-size: 2rem; text-align: center;">🤖 AI Projects</h2>
+      <h2 style="color: var(--primary-color); margin-bottom: 2rem; font-size: 2rem; text-align: center;">🤖 AI Projects (self-directed)</h2>
       <div class="projects-grid">
         <div class="project-card">
           <div class="project-image">

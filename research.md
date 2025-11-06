@@ -227,7 +227,7 @@ title: "Research"
                 </h3>
                 <div class="research-item">
                     <h4 class="research-title">
-                        Simulation-Based Analysis of Metro Construction Impacts on Heterogeneous Urban Traffic: A SUMO and Bayesian Optimization Approach
+                        Evaluating and Optimizing Metro Construction Impacts on Heterogeneous Traffic Flow: A SUMO-Based Simulation Study of Natun Bazar, Dhaka, Bangladesh
                     </h4>
                     <p class="research-description">
                         Comprehensive traffic flow analysis using advanced simulation techniques to understand and mitigate the impact of metro construction on urban transportation systems.
