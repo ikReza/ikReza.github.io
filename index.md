@@ -20,7 +20,26 @@ title: "Home"
               <polyline points="7,7 17,7 17,17"></polyline>
             </svg>
           </a>
-          <a href="{{ '/about#contact' | relative_url }}" class="btn btn-outline">Get in Touch</a>
+          <a href="{{ '/about#contact' | relative_url }}" class="btn btn-outline">
+            Get in Touch
+          </a>
+          <a href="https://scholar.google.com/citations?user=DydDf3EAAAAJ" 
+            target="_blank" rel="noopener noreferrer"
+            style="
+              background: linear-gradient(90deg, #1a73e8 0%, #4285f4 100%);
+              color: white;
+              border-radius: 8px;
+              padding: 0.6rem 1rem;
+              font-weight: 500;
+              text-decoration: none;
+              display: flex;
+              align-items: center;
+              gap: 0.5rem;
+            ">
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" 
+                alt="Google Scholar" width="18" height="18" style="filter: invert(100%);">
+            Google Scholar
+          </a>
         </div>
       </div>
       <div class="hero-image">
