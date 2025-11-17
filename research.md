@@ -218,19 +218,19 @@ title: "Research"
                     </a>
                 </div>
             </div>
-            <!-- Ongoing Research -->
+            <!-- Under Review Research -->
             <div class="research-category">
                 <h3 class="category-title">
-                    <div class="category-icon">🔬</div>
-                    Ongoing Research Projects
-                    <span class="status-badge status-ongoing">In Progress</span>
+                    <div class="category-icon">📝</div>
+                    Research Under Review
+                    <span class="status-badge status-under-review">Under Review</span>
                 </h3>
                 <div class="research-item">
                     <h4 class="research-title">
                         Evaluating and Optimizing Metro Construction Impacts on Heterogeneous Traffic Flow: A SUMO-Based Simulation Study of Natun Bazar, Dhaka, Bangladesh
                     </h4>
                     <p class="research-description">
-                        Comprehensive traffic flow analysis using advanced simulation techniques to understand and mitigate the impact of metro construction on urban transportation systems.
+                        Preprint submitted for journal review. Comprehensive traffic flow analysis using advanced simulation techniques to understand and mitigate the impact of metro construction on urban transportation systems.
                     </p>
                     <ul class="research-highlights">
                         <li>Simulated the impact of metro construction-induced lane closures on heterogeneous traffic flow at a critical intersection using SUMO microsimulation.</li>
@@ -243,6 +243,14 @@ title: "Research"
                         View Preprint
                     </a>
                 </div>
+            </div>
+            <!-- Ongoing Research -->
+            <div class="research-category">
+                <h3 class="category-title">
+                    <div class="category-icon">🔬</div>
+                    Ongoing Research Projects
+                    <span class="status-badge status-ongoing">In Progress</span>
+                </h3>
                 <div class="research-item">
                     <h4 class="research-title">
                         Predicting Road Crash Severity using Classifier Models with Crash Hotspot Identification
@@ -251,15 +259,14 @@ title: "Research"
                         Advanced data analytics approach to predict road crash severity and identify high-risk areas in Dhaka, contributing to evidence-based traffic safety policy development.
                     </p>
                     <ul class="research-highlights">
-                        <li><strong>Data Integration & Preprocessing:</strong> Perform relational database merging using foreign keys, handle missing values through imputation, and conduct feature engineering</li>
-                        <li><strong>Hotspot Identification:</strong> Use spatial analysis techniques (Kernel Density) to locate and visualize high-risk zones in Dhaka (2015–2021)</li>
-                        <li><strong>Predictive Modeling:</strong> Train classifier models (Random Forest, XGBoost) to predict crash severity using location, time, and participant profile features</li>
-                        <li><strong>Policy Development:</strong> Draft actionable recommendations based on analytical insights for urban safety improvement</li>
+                        <li><strong>Data Integration & Preprocessing:</strong> Perform relational database merging using foreign keys, handle missing values through imputation, and conduct feature engineering.</li>
+                        <li><strong>Hotspot Identification:</strong> Use spatial analysis techniques (Kernel Density) to locate and visualize high-risk zones in Dhaka (2015–2021).</li>
+                        <li><strong>Predictive Modeling:</strong> Train classifier models (Random Forest, XGBoost) to predict crash severity using location, time, and participant profile features.</li>
+                        <li><strong>Policy Development:</strong> Draft actionable recommendations based on analytical insights for urban safety improvement.</li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
-
   </div>
 </section>
