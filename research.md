@@ -233,11 +233,15 @@ title: "Research"
                         Comprehensive traffic flow analysis using advanced simulation techniques to understand and mitigate the impact of metro construction on urban transportation systems.
                     </p>
                     <ul class="research-highlights">
-                        <li>Simulate lane closure effects on traffic flow using SUMO software at key intersections</li>
-                        <li>Utilize Python for dynamic control and machine learning to optimize vehicle parameters (speed, acceleration)</li>
-                        <li>Develop a vehicle counter mobile application for real-time traffic data collection during surveys</li>
-                        <li>Present evidence-based solutions including traffic management plans and infrastructure adjustments</li>
+                        <li>Simulated the impact of metro construction-induced lane closures on heterogeneous traffic flow at a critical intersection using SUMO microsimulation.</li>
+                        <li>Developed a Python-based Bayesian optimization framework leveraging Optuna’s Tree-structured Parzen Estimator (TPE) to dynamically calibrate vehicle parameters (e.g., speed, acceleration), improving simulation accuracy and control efficiency.</li>
+                        <li>Quantified construction-induced traffic disruption as a 64.1% increase in average travel time and proposed a data-driven traffic management plan that outperformed the baseline performance by 5.6%.</li>
                     </ul>
+                    <a href="https://zenodo.org/records/17633524"
+                       class="research-link" target="_blank" rel="noopener noreferrer">
+                        <span>📄</span>
+                        View Preprint
+                    </a>
                 </div>
                 <div class="research-item">
                     <h4 class="research-title">
