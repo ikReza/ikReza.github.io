@@ -12,7 +12,7 @@ title: "Home"
         <p class="description">
           Civil engineer blending domain expertise with Python, AI, and automation to modernize transportation workflows. With 5+ years in infrastructure development and project management, I build intelligent tools - from Streamlit dashboards for site coordination to GenAI models for road defect detection. I hold a BSc in Civil Engineering from Bangladesh University of Engineering & Technology (BUET).
         </p>
-        <div style="display: flex; gap: 1rem; margin-top: 2rem;">
+        <div style="display: flex; gap: 1rem; margin-top: 2rem; flex-wrap: wrap;">
           <a href="{{ '/projects' | relative_url }}" class="btn btn-primary">
             View My Work
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -39,6 +39,40 @@ title: "Home"
             <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" 
                 alt="Google Scholar" width="18" height="18" style="filter: invert(100%);">
             Google Scholar
+          </a>
+          <a href="https://www.researchgate.net/profile/Ibrahim-Kaiser" 
+            target="_blank" rel="noopener noreferrer"
+            style="
+              background: linear-gradient(90deg, #00d0b1 0%, #00ccaf 100%);
+              color: white;
+              border-radius: 8px;
+              padding: 0.6rem 1rem;
+              font-weight: 500;
+              text-decoration: none;
+              display: flex;
+              align-items: center;
+              gap: 0.5rem;
+            ">
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg" 
+                alt="ResearchGate" width="18" height="18" style="filter: invert(100%);">
+            ResearchGate
+          </a>
+          <a href="https://orcid.org/0009-0001-1623-6347" 
+            target="_blank" rel="noopener noreferrer"
+            style="
+              background: linear-gradient(90deg, #a6ce39 0%, #95c11f 100%);
+              color: white;
+              border-radius: 8px;
+              padding: 0.6rem 1rem;
+              font-weight: 500;
+              text-decoration: none;
+              display: flex;
+              align-items: center;
+              gap: 0.5rem;
+            ">
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" 
+                alt="ORCID" width="18" height="18" style="filter: invert(100%);">
+            ORCID
           </a>
         </div>
       </div>
